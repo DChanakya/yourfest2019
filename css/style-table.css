@@ -80,7 +80,7 @@ table tr:nth-child(2n+1) {
     content: 'Name:';
   }
   td:nth-child(3):before {
-    content: 'Email:';
+    content: 'Department:';
   }
   td:nth-child(4):before {
     content: 'Phone:';
